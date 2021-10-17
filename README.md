@@ -2,10 +2,10 @@
 
 # Patches
 
-## Alpha Transparency
+ Alpha Transparency
 
 # Other Changes
 
-## Changed clipboard settings
+ Changed clipboard settings
 
-## Changed colour scheme
+ Changed colour scheme
