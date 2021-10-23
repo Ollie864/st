@@ -3,6 +3,8 @@
 # Patches
 
  Alpha Transparency
+ 
+ Scrollback (bound to shift + page up/down)
 
 # Other Changes
 
