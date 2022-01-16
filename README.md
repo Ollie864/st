@@ -2,6 +2,6 @@
 Transparency
 Xresources
 
-#Other Changes
+# Other Changes
 Change Clipboard settings
 
