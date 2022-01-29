@@ -1,6 +1,7 @@
 # Patches
 - Scrollback
 - Alpha 
+- Added blinking cursor
 
 # Other Changes
 - Added Pywal support
