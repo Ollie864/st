@@ -1,8 +1,8 @@
 # Patches
-Transparency
-Xresources
-Scrollback
+- Scrollback
 
 # Other Changes
-Change Clipboard settings
+- Added Pywal support
+- Changed clipboard keybinds
+- Changed scrollback keybinds
 
